@@ -1,0 +1,4 @@
+{"Name" : "Big Bird",		"Position" : "CEO",	"Address" : {"home": {"street" : "123 Seasame Street", "city" : "New York", "state" : "New York"},"email":"big.bird@ibm.com"}}
+{"Name" : "Snuffalupugus",  "Nickname" : "Snuffy",	"Position" :  "SE",	"Address" : {"home":{"street" : "45 Imagine Lane", "city" : "Albany", "state" : "New York"},"email":"snuffy@ibm.com"}}
+{"Name" : "Alien",		"Position" :  "SE", "Address" :	{"home":{"street" : "678 Outer Space Parkway", "city" : "Space", "state" : "Space"}}}
+{"Name" : "Alien",		"Position" :  "SE", "Address" :	{"home":{"street" : "678 Outer Space Parkway", "city" : "Space", "state" : "Space"}}}

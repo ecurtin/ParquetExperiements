@@ -1,0 +1,5 @@
+Name,Nickname,Position,Address
+Big Bird,,CEO,"{""home"": {""street"" : ""123 Seasame Street"", ""city"" : ""New York"", ""state"" : ""New York""},""email"":""big.bird@ibm.com}"
+Snuffalupugus,Snuffy,SE,"{""home"":{""street"" : ""45 Imagine Lane"", ""city"" : ""Albany"", ""state"" : ""New York""},""email"":""snuffy@ibm.com}"
+Alien,,SE,"{""home"":{""street"" : ""678 Outer Space Parkway"", ""city"" : ""Space"", ""state"" : ""Space""}}"
+Alien,,SE,"{""home"":{""street"" : ""678 Outer Space Parkway"", ""city"" : ""Space"", ""state"" : ""Space""}}"
