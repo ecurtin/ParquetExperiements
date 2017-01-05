@@ -46,7 +46,7 @@ object SmallData {
 
 
     val input = "resources/seasame-street.json"
-    val output = "output/seasame-street.parquet"
+    val output = "output/raw-parquet/seasame-street.parquet"
 //    val df: DataFrame = spark.read.option("delimiter", "\t").option ("header", "true").csv (input)
 
     val df: DataFrame = spark.read.json(input)
